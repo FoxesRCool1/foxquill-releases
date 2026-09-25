@@ -1,39 +1,15 @@
 # FoxQuill releases
 
-Downloads for [FoxQuill](https://foxquill.studio), a calm place to write a
-novel. This repository holds the installers only. The source is not here.
+This repository stores the installer files for FoxQuill. Nothing else lives here.
 
-## Download
+**Everything about FoxQuill is on [foxquill.studio](https://foxquill.studio):**
 
-The newest build is on the [Releases page](https://github.com/FoxesRCool1/folio-releases/releases/latest).
+- [Download FoxQuill](https://foxquill.studio/download.html) for Windows, Mac, or Linux
+- [Pricing and the free trial](https://foxquill.studio/pricing.html)
+- [Help](https://foxquill.studio/docs.html), including how to install it
 
-| Platform | File |
-|---|---|
-| Windows | `FoxQuill-Setup-<version>.exe` |
-| Linux | `FoxQuill-<version>.AppImage` |
-
-macOS is not built yet.
-
-FoxQuill has a free trial of seven days. Pricing is on
-[foxquill.studio](https://foxquill.studio).
-
-## Installing
-
-**Windows.** Run the `.exe`. Windows shows a SmartScreen warning because the
-installer is not signed with a paid certificate yet. Choose **More info**, then
-**Run anyway**.
-
-**Linux.** Make the AppImage executable and run it:
-
-```
-chmod +x FoxQuill-<version>.AppImage
-./FoxQuill-<version>.AppImage
-```
-
-## Updates
-
-FoxQuill checks this repository on launch and offers an update when there is
-one. You do not need to come back here.
+FoxQuill checks this repository for updates when it opens. You do not need to
+come back here.
 
 ## Reporting a problem
 
